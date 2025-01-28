@@ -34,9 +34,9 @@ FTP, aunque funcional, tiene ciertas limitaciones de seguridad en su forma bási
 
 ## Referencias
 
-- [Documentación Oficial de ProFTP](http://www.proftpd.org/)
-- [RFC 959 - Protocolo FTP](https://www.rfc-editor.org/rfc/rfc959)
-- [Introducción al protocolo FTP](https://www.lifewire.com/file-transfer-protocol-overview-817944)
-- [Seguridad en FTP - Guía de FTPS y SFTP](https://www.ssl.com/article/ftps-vs-sftp-understanding-the-differences/)
+- [`Documentación Oficial de ProFTP`](http://www.proftpd.org/)
+- [`RFC 959 - Protocolo FTP`](https://www.rfc-editor.org/rfc/rfc959)
+- [`Introducción al protocolo FTP`](https://www.lifewire.com/file-transfer-protocol-overview-817944)
+- [`Seguridad en FTP - Guía de FTPS y SFTP`](https://www.ssl.com/article/ftps-vs-sftp-understanding-the-differences/)
 
 
