@@ -4,6 +4,8 @@ ProFTP es un servidor FTP de código abierto, ampliamente reconocido por su segu
 
 ## Índice
 
+<img src="/image/pngegg.png" alt="GIF" width="200" height="175" align="right">
+
 1. [`Introducción`](#introducción)
 2. [`Instalación de ProFTP`](/doc/instalación-de-proftp.md)
 3. [`Configuración Inicial`](/doc/configuración-inicial.md)
