@@ -9,9 +9,10 @@ ProFTP es un servidor FTP de código abierto, ampliamente reconocido por su segu
 1. [`Introducción`](#introducción)
 2. [`Instalación de ProFTP`](/doc/instalación-de-proftp.md)
 3. [`Configuración Inicial`](/doc/configuración-inicial.md)
-4. [`Opciones Avanzadas de Configuración`](/doc/opciones-avanzadas-de-configuración.md)
-5. [`Solución de Problemas`](/doc/solución-de-problemas.md)
-6. [`Referencias`](#referencias)
+4. [`Configuraciones de Proftpd`](/doc/proftpd-conf.md)
+5. [`Opciones Avanzadas de Configuración`](/doc/opciones-avanzadas-de-configuración.md)
+6. [`Solución de Problemas`](/doc/solución-de-problemas.md)
+7. [`Referencias`](#referencias)
 
 ---
 
